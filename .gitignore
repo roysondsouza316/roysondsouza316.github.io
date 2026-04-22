@@ -1,0 +1,7 @@
+# CV source — keep private
+cv.txt
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/

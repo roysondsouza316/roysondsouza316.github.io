@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
+  <title id="title">Collaboration map placeholder</title>
+  <desc id="desc">A placeholder panel representing global scientific collaborations.</desc>
+  <defs>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#112846"/>
+      <stop offset="1" stop-color="#1376a8"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#g2)"/>
+  <g fill="#d9f2ff" opacity="0.8">
+    <circle cx="120" cy="160" r="10"/>
+    <circle cx="250" cy="110" r="10"/>
+    <circle cx="410" cy="180" r="10"/>
+    <circle cx="560" cy="140" r="10"/>
+    <circle cx="670" cy="220" r="10"/>
+    <circle cx="300" cy="290" r="10"/>
+    <circle cx="470" cy="330" r="10"/>
+  </g>
+  <g stroke="#eaf7ff" stroke-width="3" opacity="0.75">
+    <line x1="120" y1="160" x2="250" y2="110"/>
+    <line x1="250" y1="110" x2="410" y2="180"/>
+    <line x1="410" y1="180" x2="560" y2="140"/>
+    <line x1="560" y1="140" x2="670" y2="220"/>
+    <line x1="410" y1="180" x2="300" y2="290"/>
+    <line x1="300" y1="290" x2="470" y2="330"/>
+  </g>
+  <text x="400" y="470" text-anchor="middle" fill="#eaf7ff" font-size="30" font-family="IBM Plex Sans, sans-serif">Collaboration Footprint Placeholder</text>
+</svg>

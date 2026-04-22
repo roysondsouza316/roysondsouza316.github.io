@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
+  <title id="title">Scientific profile placeholder</title>
+  <desc id="desc">A placeholder panel for profile image.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d3a5e"/>
+      <stop offset="1" stop-color="#0a6aa1"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#g)"/>
+  <circle cx="400" cy="190" r="88" fill="#b8e1f5" opacity="0.92"/>
+  <rect x="230" y="295" width="340" height="130" rx="65" fill="#b8e1f5" opacity="0.92"/>
+  <text x="400" y="465" text-anchor="middle" fill="#eaf7ff" font-size="30" font-family="IBM Plex Sans, sans-serif">Profile Photo Placeholder</text>
+</svg>
